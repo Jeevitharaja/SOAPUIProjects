@@ -1,0 +1,1 @@
+{"error":{"detail":null,"message":"Invalid content-type. Supported request media types for this service are: [application/json, application/xml, text/xml]"},"status":"failure"}
